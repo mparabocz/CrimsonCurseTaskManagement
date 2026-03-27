@@ -11,7 +11,7 @@ export const DUMMY_USERS = [
   },
   {
     id: 'u3',
-    name: 'Capitão Elizandro',
+    name: 'Captain Elizandro Thorne',
     avatar: 'user-3.png',
   },
   {
@@ -31,7 +31,7 @@ export const DUMMY_USERS = [
   },
   {
     id: 'u7',
-    name: 'Imediato Jaxon',
+    name: 'First Mate Jaxon',
     avatar: 'user-7.png',
   },
   {
