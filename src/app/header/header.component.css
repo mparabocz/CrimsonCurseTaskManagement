@@ -9,8 +9,8 @@ header {
   text-align: center;
   background: linear-gradient(
     to bottom,
-    #2c0a4c,
-    #450d80
+    #410707,
+    #800d3d
   );
   padding: 1rem;
   border-bottom-right-radius: 12px;
@@ -19,7 +19,7 @@ header {
 }
 
 img {
-  width: 3.5rem;
+  width: 6rem;
   object-fit: contain;
 }
 
@@ -41,7 +41,7 @@ p {
   }
 
   img {
-    width: 4.5rem;
+    width: 8rem;
   }
 
   h1 {
