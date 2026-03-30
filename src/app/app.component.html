@@ -8,5 +8,10 @@
       </li>
     }
   </ul>
-  <app-tasks [name]="selectedUser ? selectedUser.name : ''" />
+
+  @if (selectedUser) {
+    <app-tasks [userId]="selectedUser.id" [name]="selectedUser.name" />
+  } @else {
+    <p id="fallback">Select a crew member to check their tasks.</p>
+  }
 </main>
