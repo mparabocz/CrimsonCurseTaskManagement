@@ -22,7 +22,8 @@ button {
 button:hover,
 button:active,
 .active {
-  background-color: #410707;
+  background-color: #d5d6cd;
+  color: #0b0519;
 }
 
 img {

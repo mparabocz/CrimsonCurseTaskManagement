@@ -1,10 +1,15 @@
 article {
   padding: 1rem;
-  background-color: #410707;
+  background-color: #d5d6cd;
 }
 
 h2 {
   margin: 0;
+  color: #ac1252;
+}
+
+p {
+  color: #0b0519;
 }
 
 time {
@@ -20,8 +25,8 @@ time {
   font: inherit;
   font-size: 0.9rem;
   cursor: pointer;
-  background-color: #d5d6cd;
-  color: #ac1252;
+  background-color: #ac1252;
+  color: #d5d6cd;
   border-radius: 4px;
   padding: 0.5rem 1.5rem;
   border: none;
